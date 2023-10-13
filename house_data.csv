@@ -1,0 +1,1001 @@
+city_name,area_apartments,prices
+New York,1971,90.13
+Los Angeles,1316,969.33
+Los Angeles,2273,563.59
+Los Angeles,874,569.39
+London,2626,169.56
+London,974,444.12
+Los Angeles,2425,736.74
+Los Angeles,2671,263.95
+New York,1844,513.64
+London,1872,694.09
+Los Angeles,1674,274.65
+New York,1916,246.78
+London,945,93.55
+Los Angeles,756,656.42
+New York,2711,323.78
+London,1838,859.47
+London,1744,542.0
+Los Angeles,1560,685.51
+Los Angeles,2705,620.4
+New York,2404,712.37
+New York,749,867.91
+Los Angeles,2602,620.36
+London,2759,670.45
+London,1896,562.46
+London,1988,640.85
+New York,2082,738.0
+Los Angeles,2691,493.51
+London,2231,518.16
+Los Angeles,2047,163.35
+Los Angeles,1132,583.66
+New York,2197,747.44
+Los Angeles,1201,377.74
+New York,1982,618.22
+London,2842,792.81
+London,2824,59.2
+London,2479,321.08
+Los Angeles,1340,248.96
+Los Angeles,713,511.14
+London,1599,720.35
+New York,1454,407.58
+London,772,325.95
+Los Angeles,2742,371.17
+Los Angeles,1574,331.55
+Los Angeles,2619,431.04
+Los Angeles,1635,92.02
+Los Angeles,985,748.58
+London,819,242.21
+New York,1540,924.41
+London,2208,894.22
+New York,507,141.06
+Los Angeles,605,980.23
+Los Angeles,1565,843.14
+New York,2034,416.15
+Los Angeles,1337,267.97
+London,1930,910.06
+New York,1649,899.08
+Los Angeles,1482,301.39
+Los Angeles,2011,646.81
+New York,1081,545.94
+London,694,145.69
+New York,906,389.35
+Los Angeles,2420,768.75
+New York,1832,544.71
+New York,2245,909.8
+London,2929,854.32
+New York,2088,115.86
+London,1441,747.44
+New York,1224,254.0
+New York,2185,950.08
+Los Angeles,2575,891.32
+Los Angeles,1758,800.98
+Los Angeles,1629,897.57
+London,1756,995.16
+London,1828,967.43
+London,916,232.33
+New York,969,849.88
+Los Angeles,781,639.3
+London,816,287.53
+New York,1150,509.64
+Los Angeles,1310,263.27
+London,1223,109.38
+London,1855,995.05
+London,797,873.34
+London,2299,663.88
+Los Angeles,2918,133.8
+Los Angeles,1695,260.56
+London,1217,862.62
+Los Angeles,2657,433.65
+New York,1147,153.38
+London,978,463.22
+New York,2260,810.43
+New York,2987,851.8
+New York,2979,470.07
+London,2038,244.04
+New York,1418,328.19
+New York,685,690.03
+Los Angeles,1485,657.87
+New York,1583,186.15
+Los Angeles,2121,445.32
+London,1484,730.24
+London,2416,407.94
+Los Angeles,651,690.95
+New York,2020,138.17
+Los Angeles,632,82.47
+New York,819,103.48
+New York,791,656.78
+London,677,241.26
+London,2775,471.55
+London,1446,135.09
+New York,1107,828.26
+New York,2970,100.26
+Los Angeles,2600,201.94
+New York,1303,884.13
+New York,1139,539.94
+New York,1793,756.66
+Los Angeles,2477,500.81
+Los Angeles,2511,707.0
+Los Angeles,1206,871.09
+New York,1658,334.99
+London,808,922.59
+Los Angeles,849,714.88
+New York,2066,534.03
+London,2859,503.26
+Los Angeles,2833,317.22
+Los Angeles,917,117.95
+London,1737,379.93
+Los Angeles,567,143.86
+London,2894,759.4
+Los Angeles,2998,995.96
+New York,2679,861.57
+Los Angeles,1487,279.65
+London,1330,257.3
+London,2671,340.26
+Los Angeles,1073,432.04
+London,2168,325.63
+London,1908,648.49
+London,1889,54.17
+New York,661,718.11
+New York,1074,369.22
+Los Angeles,1848,389.88
+Los Angeles,1696,551.9
+London,1839,960.47
+London,633,284.76
+Los Angeles,739,481.45
+London,1276,892.04
+London,1699,179.95
+New York,2246,747.62
+Los Angeles,2873,433.04
+New York,794,940.89
+Los Angeles,2880,973.33
+New York,2098,58.48
+Los Angeles,2696,156.15
+New York,2830,243.02
+New York,1969,366.17
+Los Angeles,2935,463.79
+New York,2220,448.11
+New York,2150,267.17
+London,1258,648.22
+Los Angeles,1071,808.46
+London,1223,724.6
+New York,899,721.06
+New York,2375,583.27
+London,896,120.41
+New York,1062,291.04
+Los Angeles,2210,726.66
+Los Angeles,1038,610.12
+Los Angeles,745,304.47
+New York,933,456.98
+New York,1540,372.87
+Los Angeles,2635,358.24
+New York,999,92.64
+London,1930,474.93
+Los Angeles,1665,863.52
+New York,876,250.35
+London,815,94.32
+London,2908,463.4
+Los Angeles,1161,760.24
+London,2487,675.04
+London,1662,388.33
+Los Angeles,1886,178.42
+Los Angeles,2298,398.62
+New York,2620,499.53
+Los Angeles,2684,298.55
+London,1205,348.27
+Los Angeles,2630,403.61
+Los Angeles,922,639.77
+New York,2512,307.41
+New York,2986,301.55
+London,1554,259.06
+Los Angeles,882,935.83
+New York,1922,742.25
+Los Angeles,2024,352.34
+London,1494,140.52
+London,2690,99.87
+New York,1257,948.47
+New York,844,60.05
+London,1402,125.67
+Los Angeles,2983,816.69
+Los Angeles,1944,677.44
+New York,2819,450.24
+London,640,62.69
+London,2553,328.39
+Los Angeles,992,670.9
+London,2429,952.06
+New York,1615,776.22
+New York,2285,80.92
+Los Angeles,2997,539.36
+New York,556,851.09
+London,2375,916.99
+New York,998,68.44
+Los Angeles,2591,966.33
+New York,2513,390.05
+London,1439,735.31
+New York,2097,97.39
+New York,698,478.25
+New York,1957,930.31
+New York,2662,575.37
+London,1022,853.41
+Los Angeles,2338,256.63
+London,512,957.42
+New York,2480,204.39
+New York,1635,96.58
+London,1972,280.25
+New York,2821,102.3
+London,2221,255.18
+New York,1416,486.57
+Los Angeles,2745,225.13
+London,2922,510.85
+New York,1169,61.11
+New York,1986,922.94
+London,2188,104.04
+New York,1628,234.55
+Los Angeles,2731,909.05
+New York,1638,130.23
+New York,2341,427.25
+Los Angeles,770,275.77
+Los Angeles,1803,990.17
+Los Angeles,1622,442.81
+London,2690,745.52
+London,1049,949.54
+London,2999,127.56
+London,1083,941.66
+New York,1286,814.59
+New York,1269,626.25
+Los Angeles,1253,352.21
+London,2379,883.27
+Los Angeles,857,367.15
+Los Angeles,1853,995.7
+Los Angeles,2267,932.59
+New York,2586,423.54
+New York,2865,173.64
+London,2953,974.3
+London,2976,381.44
+Los Angeles,527,273.68
+New York,2345,879.64
+Los Angeles,1793,195.66
+New York,2018,883.99
+New York,2935,322.71
+Los Angeles,978,621.47
+London,1878,494.81
+Los Angeles,2443,341.27
+New York,587,147.2
+London,2840,235.6
+New York,975,879.05
+London,2187,528.72
+Los Angeles,1716,128.76
+Los Angeles,2685,729.94
+London,1566,350.95
+London,2407,988.04
+London,981,499.36
+Los Angeles,2627,156.75
+London,1556,893.01
+New York,1579,317.81
+Los Angeles,957,819.38
+New York,1028,542.28
+Los Angeles,1583,409.11
+Los Angeles,1012,563.74
+Los Angeles,1664,205.52
+Los Angeles,2992,571.03
+Los Angeles,1100,800.6
+London,1011,401.6
+New York,2019,726.6
+Los Angeles,2885,191.81
+London,2308,622.82
+New York,2954,820.52
+New York,1630,571.19
+Los Angeles,2816,792.32
+London,914,768.48
+Los Angeles,1326,952.87
+London,1990,425.84
+Los Angeles,802,734.65
+Los Angeles,1289,578.65
+New York,1697,913.73
+Los Angeles,2333,825.31
+Los Angeles,2180,497.74
+New York,611,304.69
+London,1863,484.26
+Los Angeles,1453,716.45
+Los Angeles,2399,954.74
+London,1486,583.49
+London,2791,796.29
+New York,1465,478.25
+Los Angeles,1297,284.25
+London,2279,689.7
+New York,1512,323.23
+New York,2173,748.36
+Los Angeles,564,696.26
+London,1087,580.05
+London,672,380.66
+Los Angeles,1544,885.32
+New York,1359,730.04
+London,1424,498.42
+New York,2513,212.24
+London,2589,793.03
+London,1076,434.95
+New York,607,548.42
+New York,1898,600.62
+Los Angeles,1083,429.21
+New York,2452,137.66
+London,1342,863.47
+London,721,433.13
+London,2157,122.1
+New York,1734,533.0
+New York,508,399.34
+London,2119,188.51
+New York,689,707.59
+Los Angeles,711,332.74
+London,2393,523.03
+Los Angeles,1175,965.31
+New York,2396,479.11
+New York,869,204.87
+New York,1601,194.44
+London,1081,476.99
+Los Angeles,1657,764.18
+Los Angeles,2235,604.92
+Los Angeles,2534,813.55
+London,1870,235.22
+Los Angeles,1412,734.78
+Los Angeles,2578,983.4
+Los Angeles,2449,108.3
+Los Angeles,719,776.53
+New York,1214,448.6
+Los Angeles,1215,437.44
+New York,1484,713.55
+Los Angeles,2069,797.78
+London,1466,770.4
+London,1045,756.72
+New York,1415,861.41
+Los Angeles,1534,937.33
+New York,2673,226.26
+Los Angeles,1089,599.86
+London,1477,125.48
+London,823,635.77
+Los Angeles,2963,95.75
+New York,1212,816.83
+Los Angeles,538,311.33
+London,834,797.14
+Los Angeles,1472,435.09
+New York,881,958.06
+New York,2418,698.56
+London,1016,570.13
+London,2555,357.46
+New York,2072,431.06
+London,724,793.84
+London,952,993.18
+New York,2300,374.82
+London,2489,143.41
+New York,1015,501.85
+Los Angeles,1613,832.38
+Los Angeles,1812,656.95
+New York,1938,87.93
+New York,1120,94.98
+Los Angeles,1764,686.55
+New York,1907,639.95
+Los Angeles,2170,942.42
+Los Angeles,2153,327.75
+New York,1111,656.57
+Los Angeles,2306,955.56
+Los Angeles,1584,523.38
+Los Angeles,1750,368.77
+London,2515,532.77
+London,2365,371.59
+New York,1389,762.1
+London,2981,238.69
+Los Angeles,1960,91.69
+New York,632,801.04
+New York,566,969.88
+New York,2666,698.86
+New York,1436,711.71
+London,719,313.34
+New York,2025,433.66
+Los Angeles,750,912.15
+Los Angeles,694,959.34
+London,553,851.83
+London,2123,529.22
+London,2497,385.27
+New York,1014,709.7
+London,2359,846.08
+Los Angeles,1493,904.09
+New York,1901,203.11
+New York,2250,51.16
+London,948,612.81
+New York,1773,691.61
+Los Angeles,1345,968.29
+New York,2706,126.88
+New York,535,349.88
+London,1187,730.52
+London,1048,383.01
+London,1691,408.81
+New York,1630,156.59
+London,2287,950.32
+New York,2963,104.03
+New York,2511,427.41
+Los Angeles,1934,696.61
+Los Angeles,1534,251.08
+London,2816,628.9
+London,1084,518.66
+New York,2284,950.1
+London,809,882.82
+New York,2083,327.45
+New York,2539,742.84
+Los Angeles,1413,988.22
+Los Angeles,1363,235.17
+New York,1590,97.51
+New York,1697,853.82
+New York,2282,269.97
+Los Angeles,568,155.44
+New York,2929,891.78
+London,2203,158.17
+Los Angeles,1551,164.3
+Los Angeles,642,393.24
+Los Angeles,1867,800.62
+New York,783,387.23
+Los Angeles,2051,709.31
+London,2457,143.42
+Los Angeles,1710,304.68
+London,2456,214.11
+London,1323,986.67
+New York,2961,748.57
+New York,685,887.85
+London,1633,794.92
+New York,548,850.29
+New York,2778,520.32
+Los Angeles,842,646.25
+London,2555,134.23
+London,1319,877.97
+Los Angeles,663,575.9
+New York,2322,117.62
+Los Angeles,1842,927.68
+New York,2312,65.83
+Los Angeles,1430,967.54
+Los Angeles,1560,926.84
+Los Angeles,2985,389.07
+London,2848,56.73
+London,1639,633.75
+Los Angeles,2780,815.72
+Los Angeles,2921,504.5
+Los Angeles,875,282.4
+New York,1819,909.12
+New York,1287,809.13
+New York,1549,981.32
+London,2740,74.67
+New York,2809,509.98
+New York,1991,964.75
+Los Angeles,727,705.2
+New York,1571,787.68
+Los Angeles,1212,893.63
+Los Angeles,2005,171.36
+Los Angeles,1225,155.37
+New York,1311,706.01
+Los Angeles,866,802.2
+New York,1363,645.61
+New York,1138,479.79
+London,2642,898.52
+Los Angeles,2427,843.34
+London,1422,721.72
+New York,1205,887.83
+London,2709,126.48
+Los Angeles,686,800.61
+London,2537,291.9
+London,1199,683.9
+Los Angeles,2413,89.89
+London,2281,369.2
+Los Angeles,2133,873.65
+London,2125,432.13
+New York,2266,146.92
+New York,2103,224.2
+London,889,99.31
+New York,746,129.37
+Los Angeles,1460,791.55
+Los Angeles,1631,869.65
+London,2669,560.52
+New York,2867,784.33
+London,748,231.24
+London,1138,638.93
+New York,1650,916.88
+London,1155,999.15
+New York,2092,133.81
+London,1483,227.77
+Los Angeles,1806,151.35
+Los Angeles,2722,826.3
+New York,1946,443.67
+London,1004,77.85
+Los Angeles,571,516.61
+New York,1847,819.55
+New York,2963,996.86
+New York,2995,870.8
+Los Angeles,2174,251.32
+Los Angeles,2837,464.55
+New York,2148,276.22
+London,1135,415.25
+Los Angeles,2095,511.92
+London,806,728.83
+New York,1771,86.46
+Los Angeles,730,823.46
+Los Angeles,508,662.97
+New York,1271,631.25
+Los Angeles,1450,129.7
+Los Angeles,728,887.43
+London,1300,445.07
+London,2473,194.09
+New York,2548,548.98
+New York,2853,350.05
+London,1181,53.17
+New York,551,969.04
+Los Angeles,1454,539.92
+New York,714,64.8
+Los Angeles,854,904.85
+Los Angeles,2878,691.15
+Los Angeles,1816,622.81
+London,2007,105.84
+New York,2061,556.11
+Los Angeles,2068,765.66
+London,1059,890.36
+London,2781,456.95
+London,2922,58.83
+London,1610,67.35
+Los Angeles,1803,73.15
+Los Angeles,1854,578.54
+London,1548,596.79
+London,2561,866.91
+New York,2393,340.26
+Los Angeles,1714,356.44
+London,2826,686.13
+Los Angeles,2919,158.84
+Los Angeles,2422,431.94
+Los Angeles,1065,174.46
+London,1236,738.0
+Los Angeles,1166,643.95
+Los Angeles,863,246.77
+Los Angeles,1181,757.77
+Los Angeles,2622,233.93
+London,2963,391.83
+London,2824,425.52
+New York,2095,726.27
+London,2361,859.02
+London,2763,375.75
+London,2408,132.72
+Los Angeles,1663,260.33
+New York,2907,382.39
+New York,1917,572.8
+Los Angeles,1951,150.09
+London,1637,232.75
+Los Angeles,2963,946.2
+London,1687,743.56
+London,2118,888.18
+London,1014,638.78
+New York,2103,757.72
+Los Angeles,2993,549.06
+Los Angeles,655,809.08
+New York,2719,210.08
+London,2399,285.41
+London,1371,485.14
+London,2382,109.91
+New York,2675,770.29
+Los Angeles,2546,406.32
+Los Angeles,1666,336.37
+London,1304,317.02
+Los Angeles,2377,263.81
+Los Angeles,1663,409.6
+New York,943,105.92
+Los Angeles,2053,993.5
+Los Angeles,2273,677.89
+London,1232,479.63
+New York,1998,988.43
+London,582,138.47
+Los Angeles,2757,888.59
+Los Angeles,2725,799.95
+New York,688,176.65
+New York,594,762.35
+Los Angeles,1990,950.91
+New York,1758,157.88
+London,1837,427.39
+Los Angeles,2896,601.3
+New York,730,800.89
+New York,2388,154.05
+Los Angeles,2392,717.18
+London,566,145.05
+New York,1205,525.41
+London,1626,219.08
+London,2158,545.23
+New York,2944,295.46
+New York,1691,589.36
+New York,2405,665.4
+London,1111,220.76
+London,1700,949.05
+London,2341,735.54
+New York,1854,477.54
+London,861,601.15
+London,1737,96.48
+London,1308,883.67
+Los Angeles,2117,423.07
+New York,2263,753.35
+London,2850,721.42
+London,1712,996.85
+London,2677,881.07
+New York,809,216.56
+London,2340,829.83
+London,2892,452.35
+Los Angeles,1732,588.35
+London,2834,919.88
+New York,2289,740.78
+Los Angeles,596,756.58
+New York,1869,116.0
+London,1048,114.81
+London,1329,421.02
+New York,1307,277.61
+New York,1558,544.13
+Los Angeles,2013,326.33
+London,1782,985.04
+London,1313,872.76
+Los Angeles,839,114.9
+New York,2113,743.78
+Los Angeles,1220,217.04
+London,642,551.73
+Los Angeles,1850,717.38
+London,2589,538.32
+New York,2114,816.04
+London,2938,581.81
+Los Angeles,1861,531.16
+London,2867,171.93
+London,1571,259.95
+New York,2834,953.11
+London,1614,764.89
+London,2651,971.23
+London,574,679.99
+New York,2400,788.49
+London,2475,131.38
+London,1948,785.63
+New York,2533,655.59
+Los Angeles,2968,560.83
+London,2309,98.23
+London,636,286.01
+London,2703,959.6
+New York,1591,911.65
+New York,775,575.05
+New York,841,957.1
+London,2038,935.25
+Los Angeles,1427,281.27
+New York,803,883.49
+New York,2842,500.71
+London,2990,628.33
+New York,594,362.06
+London,1188,77.84
+New York,2261,929.63
+New York,2508,662.29
+New York,758,295.63
+New York,998,238.97
+New York,1094,594.6
+New York,1526,807.09
+Los Angeles,2827,998.01
+London,1658,640.37
+Los Angeles,1873,700.96
+Los Angeles,2763,379.19
+New York,876,354.01
+London,2213,258.31
+New York,1030,812.03
+New York,2619,933.45
+Los Angeles,1773,238.49
+Los Angeles,2352,76.6
+Los Angeles,1410,854.7
+London,506,286.34
+London,2948,350.38
+Los Angeles,2139,500.09
+New York,508,384.13
+Los Angeles,1906,167.07
+New York,2221,514.85
+Los Angeles,1296,560.16
+Los Angeles,2224,167.96
+London,2132,167.64
+London,2478,768.0
+New York,1176,202.68
+New York,1681,478.25
+London,1495,861.27
+Los Angeles,2686,229.45
+Los Angeles,1359,811.41
+Los Angeles,946,235.84
+New York,2054,698.94
+London,985,705.29
+Los Angeles,678,430.42
+New York,807,549.82
+New York,1904,403.62
+Los Angeles,2361,744.52
+New York,1294,248.39
+New York,1517,484.94
+New York,1981,504.19
+New York,1695,914.77
+New York,1392,812.71
+Los Angeles,1662,110.94
+London,565,329.65
+London,1987,804.89
+London,2081,859.83
+London,2804,388.27
+London,1526,413.29
+New York,2707,845.46
+New York,1506,553.56
+New York,1009,897.63
+London,1573,706.28
+London,2655,785.69
+London,2902,61.8
+New York,2744,476.17
+New York,1766,793.92
+Los Angeles,2384,194.15
+London,2744,170.04
+London,2793,140.96
+London,1459,594.35
+London,1604,534.5
+London,1314,626.67
+Los Angeles,1044,94.7
+Los Angeles,1239,467.48
+New York,1141,343.95
+Los Angeles,2277,597.0
+London,1130,135.2
+New York,2865,662.23
+New York,975,195.75
+Los Angeles,1607,679.59
+Los Angeles,2011,734.67
+Los Angeles,2305,649.69
+Los Angeles,1111,170.0
+London,834,189.58
+New York,2384,912.88
+Los Angeles,2622,312.08
+Los Angeles,2859,716.11
+New York,2103,214.82
+Los Angeles,1124,831.8
+Los Angeles,2065,271.37
+New York,598,376.43
+London,2778,891.79
+London,1237,478.84
+New York,2513,727.73
+New York,774,482.03
+New York,964,376.95
+London,2784,228.88
+London,1165,296.28
+Los Angeles,1907,342.61
+New York,2243,993.55
+New York,935,671.96
+Los Angeles,2121,374.42
+Los Angeles,1827,109.2
+Los Angeles,2472,442.84
+New York,1090,503.08
+London,2530,867.23
+New York,1016,51.03
+Los Angeles,1150,305.72
+Los Angeles,1139,197.34
+London,1841,461.65
+London,2329,153.8
+London,1005,412.13
+London,565,391.81
+London,1365,202.56
+London,2236,332.12
+Los Angeles,2688,346.3
+New York,1664,856.36
+London,1093,348.37
+New York,798,793.15
+London,2359,373.49
+London,1307,252.7
+Los Angeles,2102,79.71
+New York,1799,107.53
+London,1605,333.51
+Los Angeles,1092,958.72
+New York,523,563.97
+Los Angeles,940,200.83
+London,1473,942.42
+Los Angeles,2897,507.71
+London,2135,236.92
+Los Angeles,2829,143.64
+Los Angeles,1420,200.42
+New York,2300,801.3
+London,689,978.46
+Los Angeles,1713,238.18
+London,1567,457.23
+Los Angeles,1310,859.17
+London,990,409.99
+New York,790,421.24
+New York,1752,347.02
+Los Angeles,2651,310.44
+Los Angeles,2469,83.63
+Los Angeles,1165,114.55
+London,2813,731.01
+Los Angeles,776,547.8
+London,1578,800.39
+New York,1809,74.08
+New York,1216,847.87
+Los Angeles,1908,379.43
+Los Angeles,767,645.02
+London,1431,102.85
+London,1656,766.02
+New York,2805,668.74
+New York,1842,142.05
+New York,1759,682.58
+London,504,622.79
+Los Angeles,2943,235.19
+London,1823,445.44
+London,916,312.42
+Los Angeles,1468,560.94
+New York,2080,772.09
+London,1094,823.54
+Los Angeles,1758,419.2
+London,858,656.99
+London,2064,654.82
+New York,1319,282.54
+New York,2415,281.65
+Los Angeles,2079,704.08
+London,1408,463.85
+New York,2010,497.34
+New York,2986,828.17
+New York,1225,342.52
+Los Angeles,1633,122.26
+Los Angeles,2533,443.23
+New York,2933,902.63
+New York,2812,244.53
+New York,2157,887.36
+Los Angeles,2881,398.1
+New York,1090,685.38
+New York,2359,833.64
+New York,910,161.98
+Los Angeles,1552,794.13
+New York,1742,202.91
+New York,2406,817.62
+Los Angeles,1473,221.23
+Los Angeles,1704,259.86
+London,2613,830.48
+Los Angeles,536,699.87
+London,2884,424.5
+Los Angeles,2475,315.07
+Los Angeles,2509,117.2
+Los Angeles,2545,761.44
+New York,1913,534.73
+Los Angeles,2745,974.18
+New York,1402,643.58
+Los Angeles,936,780.11
+Los Angeles,1476,647.92
+London,1298,117.67
+London,1479,568.19
+London,2631,84.89
+New York,2905,193.89
+London,1324,164.38
+London,1452,124.42
+London,2245,666.39
+London,2636,201.4
+New York,2006,522.76
+Los Angeles,707,437.84
+New York,550,127.26
+New York,785,403.58
+New York,2761,948.17
+Los Angeles,535,562.23
+London,2337,760.67
+New York,2445,203.05
+London,1634,412.71
+London,2304,397.01
+London,2967,895.37
+New York,503,56.31
+London,2832,246.64
+London,2399,786.17
+Los Angeles,2567,849.54
+Los Angeles,864,419.95
+London,1476,179.43
+London,2217,126.21
+New York,1394,976.3
+New York,1500,839.28
+London,1270,595.54
+New York,1061,409.82
+Los Angeles,2133,979.25
+London,790,644.61
+London,1562,733.28
+New York,985,215.47
+New York,1116,284.13
+London,1071,306.08
+Los Angeles,2050,69.35
+New York,1932,954.03
+New York,1133,777.46
+Los Angeles,750,602.94
+London,2225,444.69
+New York,621,418.34
+London,1858,787.08
+London,986,906.42
+New York,1648,327.42
+Los Angeles,2888,779.17
+London,2308,254.43
+New York,1007,168.55
+Los Angeles,2491,431.77
+London,1598,183.9
+Los Angeles,1132,540.14
+Los Angeles,2386,325.39
+London,2340,373.94
+New York,687,209.0
+London,1891,834.35
+New York,2447,298.51
+London,2688,218.73
+London,2523,73.22
+London,1748,746.9
+London,2835,433.62
+Los Angeles,2388,738.84
+Los Angeles,1631,373.71
+Los Angeles,2280,358.61
+New York,526,177.22
+Los Angeles,2036,384.59
+London,2744,99.29
+Los Angeles,2565,690.16
+Los Angeles,1586,572.89
+London,1634,681.56
+London,1275,943.22
+London,1871,919.69
+Los Angeles,2578,372.22
+London,1618,64.01
+London,1653,530.11
+New York,2180,745.18
+London,604,87.85
+London,604,539.97
+Los Angeles,1412,942.92
+Los Angeles,2047,320.96
+Los Angeles,985,968.41
+Los Angeles,1951,663.72
+Los Angeles,2530,729.99
+London,1568,284.37
+London,607,989.18
+New York,2046,113.49
+New York,1497,694.2
+London,2235,238.89
+New York,2406,285.78
+Los Angeles,1424,792.89
+Los Angeles,859,214.2
+London,2853,186.04
+London,599,191.34
+Los Angeles,659,984.04
+London,2412,299.57
+Los Angeles,764,610.03
+New York,2488,777.92
+New York,2126,862.72
+London,667,895.26
+Los Angeles,1626,430.03
+New York,1320,520.68
+London,1972,738.01
+London,2186,799.74
+New York,1515,87.28
+Los Angeles,2111,174.94
+Los Angeles,2697,624.03
+New York,2054,726.77
+Los Angeles,2560,622.03
+Los Angeles,2875,511.09
+Los Angeles,2484,909.54
+London,1424,211.56
+New York,1731,60.67
+London,2415,957.59
+London,1789,514.11
+London,729,359.23
+New York,2289,260.06
+New York,2654,453.09
+New York,2707,553.8
+New York,2554,198.8
+Los Angeles,772,860.23
+London,2998,67.19
+London,1855,282.22
+Los Angeles,2642,87.42
+Los Angeles,2357,230.33
+Los Angeles,1987,774.2
+New York,2671,805.83
+London,2534,591.39
+New York,2684,530.79
+London,2399,910.62
+London,2730,131.24
+Los Angeles,1591,911.9
+Los Angeles,1384,197.41
+Los Angeles,2871,425.12
+London,2775,878.5
+New York,1259,821.18
+Los Angeles,2913,933.55
+New York,1826,906.09
+New York,768,496.65
+Los Angeles,1426,412.65
+New York,1209,981.25
+London,1643,577.22
+New York,734,518.35
+New York,1893,913.33
+London,939,191.08
+New York,1097,387.87
+New York,1702,338.2
+Los Angeles,1656,514.28
+New York,1392,984.86
